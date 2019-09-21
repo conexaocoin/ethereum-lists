@@ -1,0 +1,26 @@
+ {
+  "symbol": "MOEDA"
+  "name": "CONEXAO COIN"
+  "type": "ERC20",
+  "address": "0x106f2d734e12545b4d78fc057934905508f1fe24"
+  "Ens_address": "",
+  " decimais " : 18,
+  "site": http://coinn.com.br/"
+  "logo": {"src": "", "width": "", "height": "", "ipfs_hash": ""},
+  "suporte": {"email": "conexaocoin@bol.com.br , " url " : " " },
+  "social": {
+    " blog " : " " ,
+    " chat " : " " ,
+    " facebook " : " " ,
+    " fórum " : " " ,
+    " github " : " " ,
+    " gitter " : " " ,
+    " instagram " : " " ,
+    " linkedin " : " " ,
+    " reddit " : " " ,
+    " folga " : " " ,
+    " telegrama " : " " ,
+    " twitter " : " " ,
+    " youtube " : " "
+  }
+}
